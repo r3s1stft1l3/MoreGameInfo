@@ -1,0 +1,11 @@
+mod = [
+	"MoreGameInfo"
+]
+
+package = [
+	"resource_packages/MoreGameInfo/MoreGameInfo"
+]
+
+lua = [
+	"scripts/mods/MoreGameInfo/*"
+]
